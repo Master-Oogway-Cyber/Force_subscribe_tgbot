@@ -40,4 +40,5 @@ python3 bot.py
 
 ## Thanks to
 - [PyroGram](https://PyroGram.org)
+- [Adnan Ahmed](https://github.com/viperadnan-git)
 - [Hasibul Kabir](https://GitHub.com/hasibulkabir) and [Spechide](https://GitHub.com/spechide) for helping.
